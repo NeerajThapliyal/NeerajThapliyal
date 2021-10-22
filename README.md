@@ -1,5 +1,5 @@
-## Hi there 👋 I am Adarsh Badagala
-### I am a Self Taught Programmer
+## Hi there 👋 I am Neeraj Thapliyal
+### I am Full stack developer
 
 <head>
   <meta name="google-site-verification" content="bOSwZX5aVstnGihrRD5DBFOw3-RA-aksKom-rLEhzCs" />
@@ -15,11 +15,10 @@
 <p align="left"> <a href="https://twitter.com/AdarshBadagala" target="blank"><img src="https://img.shields.io/twitter/follow/adarshbadagala?logo=twitter&style=for-the-badge" alt="adarshbadagala" /></a> </p>
 
 - 🌱 I’m currently learning ... Data Science
-- 👨‍ I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degree
-- 🚀 I'm also working as a Student Co-ordinator for ACM Student Chapter GMRIT
+- 🚀 I'm  working as a Freelnacer.
 - 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision
 - 🥺 I’m looking for help with ... Django, Flask
-- 📫 How to reach me: ... badarsh2001@gmail.com
+- 📫 How to reach me: ... neerajthapliyal4@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am a painter, editor and a penman
 
