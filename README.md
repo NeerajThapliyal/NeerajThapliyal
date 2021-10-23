@@ -2,7 +2,7 @@
 ### I am Full stack developer
 
 <head>
-  <meta name="google-site-verification" content="bOSwZX5aVstnGihrRD5DBFOw3-RA-aksKom-rLEhzCs" />
+  <!--<meta name="google-site-verification" content="bOSwZX5aVstnGihrRD5DBFOw3-RA-aksKom-rLEhzCs" />--->
 </head>
 
 <div align="top">
@@ -10,9 +10,9 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badagalaadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="badagalaadarsh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badagalaadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="NeerajThapliyal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AdarshBadagala" target="blank"><img src="https://img.shields.io/twitter/follow/adarshbadagala?logo=twitter&style=for-the-badge" alt="adarshbadagala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NeerajThapliya1" target="blank"><img src="https://img.shields.io/twitter/follow/NeerajThapliya1?logo=twitter&style=for-the-badge" alt="adarshbadagala" /></a> </p>
 
 - 🌱 I’m currently learning ... Data Science
 - 🚀 I'm  working as a Freelnacer.
