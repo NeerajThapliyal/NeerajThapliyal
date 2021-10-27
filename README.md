@@ -10,7 +10,7 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badagalaadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="NeerajThapliyal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeerajThapliyal&label=Profile%20views&color=0e75b6&style=flat" alt="NeerajThapliyal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/NeerajThapliya1" target="blank"><img src="https://img.shields.io/twitter/follow/NeerajThapliya1?logo=twitter&style=for-the-badge" alt="adarshbadagala" /></a> </p>
 
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badagalaadarsh&show_icons=true&locale=en&theme=highcontrast" alt="badagalaadarsh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NeerajThapliyal&show_icons=true&locale=en&theme=highcontrast" alt="NeerajThapliyal" /></p>
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadagalaAdarsh&layout=compact&langs_count=10&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajThapliyal&layout=compact&langs_count=10&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
   <p><
-    align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badagalaadarsh&theme=highcontrast" alt="badagalaadarsh" /></p>
+    align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajThapliyal&theme=highcontrast" alt="badagalaadarsh" /></p>
 </div>
 
 ## 🛠️ My favorite tools
