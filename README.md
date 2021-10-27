@@ -49,8 +49,7 @@
 </div>
 
 <div align="center">
-  <p><
-    align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajThapliyal&theme=highcontrast" alt="badagalaadarsh" /></p>
+  <p><a align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajThapliyal&theme=highcontrast" alt="NeerajThapliyal" /></p>
 </div>
 
 ## 🛠️ My favorite tools
