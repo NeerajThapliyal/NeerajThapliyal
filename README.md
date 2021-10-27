@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <p><a align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajThapliyal&theme=highcontrast" alt="NeerajThapliyal" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajThapliyal&theme=highcontrast" alt="NeerajThapliyal" /></p>
 </div>
 
 ## 🛠️ My favorite tools
