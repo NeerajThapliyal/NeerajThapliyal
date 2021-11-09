@@ -16,11 +16,8 @@
 
 - 🌱 I’m currently learning ... Data Science
 - 🚀 I'm  working as a Freelnacer.
-- 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision
-- 🥺 I’m looking for help with ... Django, Flask
+- 🤔 Areas of Intrest: Machine Learning, Algorithms, IoT
 - 📫 How to reach me: ... neerajthapliyal4@gmail.com
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am a painter, editor and a penman
 
 <br>
 <br>
