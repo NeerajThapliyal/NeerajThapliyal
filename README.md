@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/NeerajThapliya1" target="blank"><img src="https://img.shields.io/twitter/follow/NeerajThapliya1?logo=twitter&style=for-the-badge" alt="adarshbadagala" /></a> </p>
 
-- 🌱 I’m currently learning ... Data Science
+- 🌱 I’m Fullstack Developer
 - 🚀 I'm  working as a Freelnacer.
 - 🤔 Areas of Intrest: Machine Learning, Algorithms, IoT
 - 📫 How to reach me: ... neerajthapliyal4@gmail.com
